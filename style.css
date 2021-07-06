@@ -12,6 +12,10 @@ h1{
     display: flex;
     margin-bottom: 150px;
 }
+.picture-flexible-container{
+    display: flex;
+    margin-bottom: 150px;
+}
 .half-width{
     width: 50%;
     padding-left: 2%;
@@ -48,6 +52,18 @@ h1{
   
 
 }
+.client-item{
+    width: 40%;
+    height: 70%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 20px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 40px grey;
+    background-color: teal;
+  
+
+}
 footer{
     text-align: center;
     background-color: black;
@@ -77,4 +93,26 @@ footer{
     height: 190px;
     
 }
-
+#picture1 img{
+    padding-top: 10px;
+    width: 80%;
+    border-radius: 25px;
+    
+    
+}
+#picture2 img{
+    padding-top: 10px;
+    width: 80%;
+    border-radius: 25px;
+    
+}
+#picture3 img{
+    padding-top: 10px;
+    width: 80%;
+    border-radius: 25px;
+    height: 185px;
+    
+}
+.fx1{
+    text-align: center;
+}
