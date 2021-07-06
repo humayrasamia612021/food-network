@@ -10,6 +10,7 @@ h1{
 }
 section{
     display: flex;
+    margin-bottom: 150px;
 }
 .half-width{
     width: 50%;
@@ -25,4 +26,11 @@ section{
     color: white;
     font-weight: 700;
     border-radius:7px;
+    margin-left: 5px;
+   
+   
+}
+.about-me{
+    background-image: url(images/shapes/banner\ design.png);
+   
 }
